@@ -1,3 +1,3 @@
-## Personal Portfolio
+## Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Visite meu portfolio](https://leonardo-siepierski.vercel.app/)
