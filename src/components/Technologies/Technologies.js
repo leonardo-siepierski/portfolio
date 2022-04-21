@@ -6,7 +6,6 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <br />
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
       Durante minha formação na Trybe, tive contato com diversas tecnologias do frontend e do backend
