@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'GraphQL Search',
     stack: 'Back-end',
-    description: 'Uma aplicação simples em React, com uma página que lista todos os países de uma API com GraphQL e outra que faz a busca de um país específico através do código internacional',
+    description: 'Uma aplicação simples em React, com uma página que lista todos os países de uma API com GraphQL e outra que faz a busca de um país específico através do código internacional (Brasil = BR, por exemplo)',
     image: '/images/graphql-search.png',
     tags: ['GraphQL', 'React', 'Apollo Client'],
     source: 'https://github.com/leonardo-siepierski/graphql-country-search',
