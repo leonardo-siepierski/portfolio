@@ -18,6 +18,26 @@ export const projects = [
     source: 'https://github.com/leonardo-siepierski/graphql-country-search',
     visit: 'https://graphql-country-search.herokuapp.com/',
     id: 1,
+  },
+  {
+    title: 'Collor Palette',
+    stack: 'Front-end',
+    description: 'Um dos meus primeiros projetos na Trybe. Consiste em uma página HTML com estilização CSS e um quadro com 25 quadrados em branco e quatro cores selecionáveis. É possível pintar cada quadro com as cores disponíveis.',
+    image: '/images/pixels.png',
+    tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/leonardo-siepierski/color-palette',
+    visit: 'https://vercel.com/leonardo-siepierski/color-palette',
+    id: 1,
+  },
+  {
+    title: 'Shopping Cart',
+    stack: 'Front-end',
+    description: 'Um dos meus primeiros projetos na Trybe. Consiste em uma página com uma requisição à API do Mercado Livre. É possível adicionar e remover produtos, e o carrinho fica salvo mesmo depois de recarregar a página.',
+    image: '/images/cart.png',
+    tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/leonardo-siepierski/graphql-country-search',
+    visit: 'https://vercel.com/leonardo-siepierski/shopping-cart-leonardo',
+    id: 1,
   }
 ];
 
